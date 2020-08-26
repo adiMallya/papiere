@@ -5,7 +5,7 @@
 
 ## INDEX
 
-**![1](https://github.com/adiMallya/paper_implemented/tree/master/LeNet-5)** LeNet-5 
+**[![1](https://github.com/adiMallya/paper_implemented/tree/master/LeNet-5)]** LeNet-5 
 
 
  
