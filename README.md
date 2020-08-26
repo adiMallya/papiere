@@ -5,7 +5,7 @@
 
 ## INDEX
 
-**[![1](/LeNet-5)]** LeNet-5 
+**[![1](LeNet-5)]** LeNet-5 
 
 
  
