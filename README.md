@@ -7,5 +7,5 @@
 
 **[[1](LeNet-5)]** LeNet-5 
 
-**[[2](https://github.com/adiMallya/paper_implemented/tree/master/AlexNet)]** AlexNet 
+**[[2](AlexNet)]** AlexNet 
  
