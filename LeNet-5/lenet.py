@@ -37,5 +37,5 @@ class LeNet(nn.Module):
 if __name__=="__main__":
     model = LeNet()
     summary(model, input_size=(1, 32,32))
-    torch.save(model, "lenet.pt")
+   
     
