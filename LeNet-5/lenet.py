@@ -1,8 +1,6 @@
 import torch
 import torch.nn as nn
-import torch.nn.functional as F 
-from torchsummary import summary
-import tensorflow as tf 
+import torch.nn.functional as F  
 
 class LeNet(nn.Module):
     def __init__(self):
