@@ -32,3 +32,4 @@ three non-linear rectification layers makes decision boundary more discriminativ
 ## Architecture 
 
 ![model](model.png)
+[VGG-16]
