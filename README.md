@@ -9,3 +9,4 @@
 
 **[[2](AlexNet)]** AlexNet 
  
+**[[3](VGGNet)]** VGGNet 
