@@ -10,3 +10,5 @@
 **[[2](AlexNet)]** AlexNet 
  
 **[[3](VGGNet)]** VGGNet 
+
+**[[4](GoogleNet)]** GoogleNet (Inception-v1) 
