@@ -14,3 +14,5 @@
 **[[4](GoogleNet)]** GoogleNet (Inception-v1) 
 
 **[[5](Inception-v3)]** Inception-v3 
+
+**[[6](style_transfer)]** Neural Style Transfer 
