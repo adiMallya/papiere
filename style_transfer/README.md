@@ -1,5 +1,5 @@
 # Neural Style Transfer
-**[4]** Style transfer
+**[6]** Style transfer
 Leon A. Gatys, et al. "Image Style Transfer Using Convoutional Neural Networks". 2016
 [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
 
