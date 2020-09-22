@@ -18,3 +18,5 @@
 **[[6](style_transfer)]** Neural Style Transfer 
 
 **[[7](ResNet)]** ResNet
+
+**[[8](DenseNet)]** DenseNet
