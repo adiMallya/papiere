@@ -6,18 +6,18 @@
 
 ## INDEX
 
-**[[1](LeNet-5)]** LeNet-5 
+**[[1](https://github.com/adiMallya/papiere/tree/master/nn/LeNet-5)]** LeNet-5 
 
-**[[2](AlexNet)]** AlexNet 
+**[[2](https://github.com/adiMallya/papiere/tree/master/nn/AlexNet)]** AlexNet 
  
-**[[3](VGGNet)]** VGGNet 
+**[[3](https://github.com/adiMallya/papiere/tree/master/nn/VGGNet)]** VGGNet 
 
-**[[4](GoogleNet)]** GoogleNet (Inception-v1) 
+**[[4](https://github.com/adiMallya/papiere/tree/master/nn/GoogleNet)]** GoogleNet (Inception-v1) 
 
-**[[5](Inception-v3)]** Inception-v3 
+**[[5](https://github.com/adiMallya/papiere/tree/master/nn/Inception-v3)]** Inception-v3 
 
-**[[6](style_transfer)]** Neural Style Transfer 
+**[[6](https://github.com/adiMallya/papiere/tree/master/style_transfer)]** Neural Style Transfer 
 
-**[[7](ResNet)]** ResNet
+**[[7](https://github.com/adiMallya/papiere/tree/master/nn/ResNet)]** ResNet
 
-**[[8](DenseNet)]** DenseNet
+**[[8](https://github.com/adiMallya/papiere/tree/master/nn/DenseNet)]** DenseNet
