@@ -1,3 +1,7 @@
+## Notice : Unmaintained
+
+This repo is no longer maintained, however any contributions to this in future are always welcomed.
+
 <h1 align="center"><img width="50px" src="assets/icon.svg" alt="icon svg"></img>papiers</h1></br>
 
 - This repo contains implementations of some papers.
